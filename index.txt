@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+ 
+<head>
+<link rel="stylesheet" type="text/css" href="C:\Users\AZEBAZE WILSON\Desktop\Mon site web\style.css" />.
+<meta charset="uft-8"/>
+
+<title>PREMIER SITE WEB AU MONDE</title>
+<header>
+	<img src="C:\Users\AZEBAZE WILSON\Desktop\TPhtml\CERNLogos.gif"alt="">
+</header>
+<section>
+	<abbr>CERN (Laboratoire européen pour la recherche nucléaire) et SLAC (Centre de l'accélérateur linéaire de Stanford), en s'appuyant sur le modèle : <abbr title= "Laboratoire européen pour la recherche nucléaire">CERN</abbr>.
+<div id="menu">
+<ul>
+  <li><a href="#">Accueil</a></li>
+  <li><a href="#">Cours</a>
+    <ul>
+      <li><a href="#">html/css</a></li>
+      <li><a href="#">binaire et hexa</a></li>
+	 </ul>
+  </li>
+  <li><a href="#">Exposés</a>
+    <ul>
+      <li><a href="#">Mon exposé</a></li>
+      <li><a href="#">Un autre expo</a></li>
+	 </ul>
+  </li>
+  <li><a href="#">Framework JS</a>
+    <ul>
+      <li><a href="#">KineticJS</a></li>
+      <li><a href="#">Phase</a></li>
+      <li><a href="#">ProcessingJS</a></li>
+      <li><a href="#">MathJax</a></li>
+	 </ul>
+  </li>
+  <li><a href="#">Framework JS</a>
+    <ul>
+      <li><a href="#">Cahier des charges</a></li>
+      <li><a href="#">Repartition des taches</a></li>
+      <li><a href="#">Présentation</a></li>
+      <li><a href="#">Production</a></li>
+	 </ul>
+  </li>
+  <li><a href="#">Page perso</a></li>
+</ul>
+</div>
+<h2>Bienvenue sur info.cern.ch</h2>
+<h3>Le site Web du tout premier serveur Web du monde</h3>
+<h4>1990, une année riche en événements:</h4>
+En février, Nelson Mandela est libéré après 27 ans de prison
+En avril, la navette spatiale Discovery met en orbite le télescope spatial Hubble
+En octobre, l'Allemagne est réunifiée
+<h4>Et à la fin de l'année se produit une révolution qui va bouleverser notre mode de vie.</h4>
+<figure class="imgauche"><img src="C:\Users\AZEBAZE WILSON\Desktop\TPhtml\TimBerners.jpg"alt=""><figcaption>Tim Berners-Lee qui cherchait un moyen simple et efficace de communiquer par ordinateurs à l'échelle mondiale, a 
+réalisé son rêve en créant le World Wide Web.</figcaption></figure>
+<p>C'est au CERN, Organisation européenne pour la recherche nucléaire, en mars 1989, que tout commence. Un 
+physicien, Tim Berners-Lee, rédige une <a href="http://info.cern.ch/Proposal-fr.html"target="blank">proposition</a> de gestion de l'information, expliquant comment transférer des 
+données sur l'Internet en toute simplicité grâce à l'hypertexte, le système, aujourd'hui familier, permettant d'aller 
+d'une information à l'autre d'un simple clic. L'année suivante, Robert Cailliau, ingénieur systèmes, apporte son 
+concours, et devient rapidement un partisan résolu du système.</p>
+<p>L'idée de départ était d'associer l'hypertexte à l'Internet et aux ordinateurs personnels, afin de permettre aux 
+physiciens du CERN de disposer d'un seul et unique réseau pour mettre en commun tous les éléments 
+d'information stockés dans les ordinateurs du Laboratoire. L'hypertexte permettrait aux utilisateurs de naviguer 
+facilement d'un texte à l'autre sur les pages Web au moyen de liens. Les premiers <a href="http://info.cern.ch/NextBrowser-fr.html"target="blank">prototypes</a> sont développés sur 
+des ordinateurs NeXT.</p>
+<figure class="imdroite"><img src="C:\Users\AZEBAZE WILSON\Desktop\TPhtml\RobertCailliau.jpg"alt=""><figcaption>Robert Cailliau, collaborateur du projet et premier surfeur sur le World Wide Web.</figcaption></figure>
+<p>Tim Berners-Lee crée alors un système d'édition et de navigation visant à transformer le système en espace créatif 
+pour mettre en commun et modifier les informations et élaborer un hypertexte commun. Comment appeler ce 
+nouveau <a href="http://info.cern.ch/LMBrowser-fr.html"target="blank">navigateur</a>? La Mine d'informations? Les Mailles de l'information ? En mai 1990, le système est baptisé 
+World Wide Web - la Toile mondiale.</p>
+<p>Info.cern.ch est l'adresse du tout premier site et serveur Web, qui était hébergé par un ordinateur NeXT du CERN. 
+La première adresse Web était <code>http://info.cern.ch/hypertext/WWW/TheProject.html</code>. La page correspondante 
+donnait des informations sur le projet WWW. On y trouvait des informations sur l'hypertexte, la technique 
+permettant de créer sa propre page Web, et même la recherche d'informations sur la Toile. Il n'existe pas de 
+reproduction de cette page originale. De toute façon, les informations étaient mises à jour quotidiennement, au fur 
+et à mesure du développement du projet WWW. Vous pourrez voir <a href="http://www.w3.org/History/19921103-hypertext/hypertext/
+WWW/TheProject.html"target="blank">cette page</a>, dans une version ultérieure (1992), 
+sur le site Web du Consortium du World Wide Web.</p>
+<p>Toutefois, un site Web, c'est comme un téléphone : tout seul, il ne sert pas à grand-chose. L'équipe de Tim 
+Berners-Lee devait donc diffuser le logiciel du serveur et du navigateur. Or les systèmes NeXT étaient très en 
+avance sur les ordinateurs dont disposait le plus grand nombre. Pour la diffusion, il fallait donc utiliser un système 
+logiciel beaucoup moins sophistiqué.</p>
+<p>Au printemps 1991, un navigateur en mode ligne universel était testé; il pourrait fonctionner sur n'importe quel 
+ordinateur ou terminal. Son fonctionnement était simple, avec des commandes saisies au clavier. Pas de souris, pas 
+d'élément graphique, juste du texte, mais toute personne disposant d'une connexion Internet pouvait accéder aux 
+informations présentes sur le Web.</p>
+<figure class="imgauche"><img src="C:\Users\AZEBAZE WILSON\Desktop\TPhtml\Next.jpg"alt=""><figcaption>Une pièce de musée : l'ordinateur NeXT utilisé par Tim Berners-Lee en 1990, exposé au Microcosm, au CERN. 
+Cet ordinateur a été le premier serveur Web, le premier navigateur hypermédia et le premier éditeur Web.</figcaption></figure>
+<p>Pendant l'année 1991, d'autres institutions ont commencé à utiliser des serveurs en Europe et, en décembre 1991, 
+le premier serveur extra-européen a été installé aux états-Unis, au SLAC. En novembre 1992, il y avait 26 serveurs 
+dans le monde et, en octobre 1993, on en dénombrait plus de 200. En février 1993, le Centre national pour les 
+applications de super-informatique (NCSA) situé sur le campus d'Urbana-Champaign de l'Université de l'Illinois a 
+sorti la première version de Mosaic, qui devait rendre le Web accessible aux utilisateurs de PC et de Macintosh 
+d'Apple.</p>
+<p>On connaît la suite...</p>
+<p>Ainsi, le Web, conçu au départ pour aider les physiciens à répondre à d'épineuses questions sur l'Univers, est 
+utilisé aujourd'hui à des fins multiples dans le monde entier et fait désormais partie de notre vie quotidienne.</p>
+<p>Il existe aujourd'hui plus de 80 millions de sites Web, encore plus d'ordinateurs reliés à l'Internet, et des centaines 
+de millions d'utilisateurs. Si les ménages achètent des ordinateurs de nos jours, ce n'est pas pour faire des calculs, 
+mais pour surfer sur le Web.</p>
+</section>
+<footer>Tiré de<a href="http://info.cern.ch/default-fr.html"> info.cern.ch</a>- Contact :<a href="mailto : web.communications@cern.ch">  web.communications@cern.ch </a></footer>
+<meta name="description" content="Résumé de la page."/>
+
+<style></style>
+
+</head>
+
+<body></body>
+
+</html>
